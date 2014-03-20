@@ -1,4 +1,4 @@
-# grunt-resize-crop
+# grunt-resize-crop [![Build Status](https://travis-ci.org/traviswimer/grunt-resize-crop.png?branch=master)](https://travis-ci.org/traviswimer/grunt-resize-crop)
 
 > Make images a specific size without distorting the aspect ratio. Resizes as close as possible and crops the rest.
 
