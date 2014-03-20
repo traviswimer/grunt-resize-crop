@@ -2,6 +2,8 @@
 
 > Make images a specific size without distorting the aspect ratio. Resizes as close as possible and crops the rest.
 
+_This plugin is a wrapper for [resize-crop](https://github.com/traviswimer/resize-crop.js)_
+
 ## Getting Started
 This plugin requires [Grunt](http://gruntjs.com/) `~0.4.4` -- [Learn to use Grunt](http://gruntjs.com/getting-started)
 
